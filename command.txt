@@ -1,0 +1,8 @@
+Login into docker
+docker login
+
+Build the docker image
+docker build -t devmanoj419/api-test:latest .
+
+Push the docker image 
+docker push devmanoj419/api-test:latest
