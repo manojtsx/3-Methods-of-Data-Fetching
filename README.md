@@ -2,10 +2,10 @@
 
 A Next.js application demonstrating three different approaches to handling CRUD operations with Firebase, showcasing various data synchronization techniques and their use cases.
 
-![Next.js](https://img.shields.io/badge/Next.js-13.0-blue)
-![Firebase](https://img.shields.io/badge/Firebase-10.0-orange)
+![Next.js](https://img.shields.io/badge/Next.js-15.0-blue)
+![Firebase](https://img.shields.io/badge/Firebase-11.0-orange)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-38B2AC)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-38B2AC)
 
 ## 🚀 Features
 
@@ -41,8 +41,8 @@ This project demonstrates three distinct approaches to handling CRUD operations:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/firebase-crud-demo.git
-   cd firebase-crud-demo
+   git clone https://github.com/manojtsx/3-Methods-of-Data-Fetching
+   cd 3-Methods-of-Data-Fetching
    ```
 
 2. **Install dependencies**
